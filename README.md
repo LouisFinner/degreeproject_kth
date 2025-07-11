@@ -1,4 +1,4 @@
-# Degreeproject_KTH
+# Degreeproject
 
-This repository contains part of the source code for a degree project at KTH.
+Thanks for you interest, please refer to the project [HiM2SAM](https://github.com/LouisFinner/HiM2SAM)
 
